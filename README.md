@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 30 yewars at Functional Devices, Inc.
 -->
 - 🔭 I’m currently working on Learning C#
-- - 💬 Ask me about EDI
-  - - 📫 How to reach me: j.medlen@functionaldevices.comctionaldevices.com
-    - - ⚡ Fun fact: 30 yewars at Functional Devices, Inc.
+- 💬 Ask me about EDI
+- 📫 How to reach me: j.medlen@functionaldevices.comctionaldevices.com
+- ⚡ Fun fact: 30 yewars at Functional Devices, Inc.
