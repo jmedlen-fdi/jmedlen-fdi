@@ -1,7 +1,6 @@
-### Jim Medlen ;-)
+# Jim Medlen ;-)
 ## Information Systems Manager
-
-# Functional Devices, Inc.
+### Functional Devices, Inc.
 
 <!--
 **jmedlen-fdi/jmedlen-fdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
